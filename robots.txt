@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://siejoicut.mustyearn.com/sitemap.xml
